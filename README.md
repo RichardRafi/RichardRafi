@@ -1,10 +1,10 @@
 # Olá, eu sou Richard Rafi! 👋📊🚀
 
-Sou um profissional na Área de Dados com habilidades avançadas em ferramentas como o Power BI, SQL e Python, além de conhecimento em bibliotecas fundamentais para a Análise de Dados foco em bibliotecas como Pandas, Matplotlib e Seaborn.
+Sou um profissional na Área de Dados com habilidades avançadas em ferramentas como o Power BI, SQL e Python, além de ter conhecimento em bibliotecas fundamentais para a Análise de Dados como Pandas, Matplotlib e Seaborn.
 
-Também tenho experiência em ferramentas de Cloud Computing como a AWS e Azure, que me permitem desenvolver e implementar soluções escaláveis em nuvem. 
+Também tenho experiência em ferramentas de Cloud Computing como a AWS e Azure, que me permite desenvolver e implementar soluções escaláveis em nuvem. 
 
-A minha paixão é buscar aprimorar as minhas habilidades em integração de dados, automação de processos e análise preditiva, me permitem transformar grandes volumes de dados em insights estratégicos. Além disso, com uma abordagem técnica e focada em resultados, aplico novas tecnologias para resolver problemas complexos, o que promove inovação e cria valor em cada projeto.
+A minha paixão é buscar aprimorar as minhas habilidades em integração de dados, automação de processos e análise preditiva, o que me permite transformar grandes volumes de dados em insights estratégicos. Além disso, com uma abordagem técnica e focada em resultados, aplico novas tecnologias para resolver problemas complexos, o que promove a inovação e cria valor em cada projeto.
 
 Estou motivado a colaborar em projetos open-source, compartilhar os meus conhecimentos e contribuir para a comunidade de Dados. E acredito que o networking e o aprendizado contínuo são essenciais para o avanço da área.
 
